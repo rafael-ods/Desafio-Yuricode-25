@@ -1,0 +1,21 @@
+@import url(./cabecalho/cabecalho.css);
+@import url(./apresentacao/apresentacao.css);
+@import url(./designn/design.css);
+@import url(./galeria/galeria.css);
+@import url(./orcamento/orcamento.css);
+@import url(./rodape/rodape.css);
+
+:root {
+    --cor-branco: #FFFFFF;
+    --cor-branco-claro: #E7E7E7;
+    --cor-preto: #272727;
+    --cinza: #797979;
+    --bg-fundo: #F9F9F9;
+    --fonte-principal: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: var(--fonte-principal);
+}
+
+
